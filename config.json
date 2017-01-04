@@ -1,27 +1,20 @@
 {
-		"condition": ["(Field-Tested)",
-			"(Minimal Wear)",
-			"(Battle-Scarred)",
-			"(Well-Worn)",
+		"condition": [
 			"(Factory New)"
 		],
-		"guns": ["CZ75-Auto | Polymer ",
-			"Glock-18 | Ironwork ",
-			"MP7 | Cirrus ",
-			"Galil AR | Black Sand ",
-			"MP9 | Sand Scale ",
-			"MAG-7 | Sonar ",
-			"P2000 | Turf",
-			"Dual Berettas | Royal Consorts ",
-			"G3SG1 | Stinger ",
-			"M4A1-S | Flashback ",
-			"Nova | Gila ",
-			"USP-S | Cyrex ",
-			"FAMAS | Mecha Industries ",
-			"P90 | Shallow Grave ",
-			"Sawed-Off | Wasteland Princess ",
-			"SSG 08 | Dragonfire ",
-			"M4A4 | Buzz Kill "
+		"guns": ["AWP | Worm God ",
+			"AWP | Safari Mesh ",
+			"AK-47 | Elite Build ",
+			"P250 | Franklin ",
+			"P90 | Elite Build ",
+			"M4A1-S | VariCamo ",
+			"M4A1-S | Blood Tiger ",
+			"M4A4 | Evil Daimyo ",
+			"USP-S | Torque ",
+			"FAMAS | Pulse ",
+			"AK-47 | Blue Laminate ",
+			"AUG | Wings ",
+			"Five-SeveN | Violent Daimyo ",
+			"Five-SeveN | Copper Galaxy "
 		]
-	
 }
